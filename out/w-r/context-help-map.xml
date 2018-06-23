@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<map>
+   <appContext helpID="concept_ChocolateChipCookieCover"
+               path="food/topics/c_ChocolateChipCookieCover.html"/>
+   <appContext helpID="concept_ChocolateChipCookie"
+               path="food/topics/c_ChocolateChipCookieDefinition.html"/>
+   <appContext helpID="reference_ChocolateChipCookieIngredients"
+               path="food/topics/r_OriginalNestleTollHouseChocolateChipCookieIngredients.html"/>
+   <appContext helpID="task_MakingChocolateChipCookies"
+               path="food/topics/t_MakingChocolateChipCookies.html"/>
+</map>
