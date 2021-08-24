@@ -2,7 +2,7 @@
 
 A chocolate chip cookie is a drop cookie that originated in the United States and features chocolate chips as its distinguishing ingredient. The traditional recipe combines a dough composed of butter and both brown and white sugar with semi-sweet chocolate chips. Variations include recipes with other types of chocolate or additional ingredients, such as nuts or oatmeal.
 
-The chocolate chip cookie was accidentally developed by Ruth Graves Wakefield in 1930. She owned the Toll House Inn, in Whitman, Massachusetts, a very popular restaurant that featured home cooking in the 1930s. Her cookbook, *Toll House Tried and True Recipes*, was published in 1936 by M. Barrows; Company, New York. It included the recipe "Toll House Chocolate Crunch Cookie", which rapidly became a favorite to be baked in American homes.
+The chocolate chip cookie was accidentally developed by Ruth Graves Wakefield in 1930. She owned the Toll House Inn, in Whitman, Massachusetts, a very popular restaurant that featured home cooking in the 1930s. Her cookbook, *Toll House Tried and True Recipes*, was published in 1936 by M. Barrows; Company, New York. It included the recipe "Toll House Chocolate Crunch Cookie," which rapidly became a favorite to be baked in American homes.
 
  ![](../image/ChocolateChipCookie.png "Nestle Chocolate Chip Cookie")
 
