@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN"
+ "task.dtd">
+<task id="task_HowToRollSushi">
+<title>How to Roll Sushi</title>
+<shortdesc>This task describes how to hand roll sushi. </shortdesc>
+<prolog>
+  <author type="contributor">joe.zucker</author>
+  <critdates>
+   <!--joe.zucker-->
+   <revised modified="2020-12-02"/>
+  </critdates>
+<metadata><keywords><indexterm>sushi<indexterm>how to roll</indexterm
+></indexterm></keywords></metadata>
+</prolog>
+<taskbody>
+<prereq>Before starting this task, have some cooked sushi rice ready
+to go.</prereq>
+<context>This procedure only applies to the making of maki-zushi,
+or sushi rolls.</context>
+<steps>
+<step><cmd>Spread cooked rice in shallow pan. (Good varieties for
+sushi include Koshi-Hikari from Japan and Kukuho Rose, Silver Pearl,
+and Tamanishiki, all from California.) Drizzle vinegar mixture over
+rice. Using a spatula, pull rice toward you, folding it over on itself
+while being careful not to cut rice grains. Repeat folding process
+until rice absorbs vinegar mixture.</cmd>
+<stepresult>You should end up with evenly vingared rice.</stepresult>
+</step>
+<step><cmd>Place seaweed sheet on bamboo mat lined with plastic wrap,
+or on other flexible material, such as pastry cloth lined with plastic
+wrap. With moistened hands, spread about 1/2 cup prepared rice evenly
+over one side of each seaweed sheet, stopping 1 inch short of longer
+edge.</cmd>
+<stepresult>At this point, there is only a layer of vingared rice
+on the mat.</stepresult>
+</step>
+<step><cmd>Place cucumber
+and salmon strips on top of rice. Use finger to dot rice with small
+amount of wasabi alongside salmon and cucumber strips. With finger,
+spread wasabi on rice to make thin line.</cmd>
+<stepresult>All of the roll ingredients are present now.</stepresult>
+</step>
+<step><cmd>Starting with rice-covered edge, roll up each sheet jelly-roll
+style. Take care to roll sushi evenly. Moisten seaweed edge with water;
+press lightly to seal.</cmd>
+<stepresult>The roll takes its final shape.</stepresult>
+</step>
+<step><cmd>To cut sushi roll, dip sharp, thin-bladed knife into hot
+water. Using sawing (back-and-forth) motion and very light pressure,
+slice each sushi roll crosswise into eight or more pieces. For easier
+cutting, frequently dip knife blade into hot water.</cmd>
+<stepresult>Ready to serve!</stepresult>
+</step>
+<step><cmd>Take a coffee break. You've worked hard.</cmd></step>
+<step audience="internalOnly"><cmd>Enjoy!</cmd>
+    <info>
+     <fig id="fig_dpq_rsb_wnb">
+      <image href="../img/board.png" id="image_gmf_tsb_wnb">
+       <alt>Sushi board</alt>
+      </image>
+     </fig>
+    </info></step>
+</steps>
+</taskbody>
+</task>
+<?Pub *0000002549 0?>

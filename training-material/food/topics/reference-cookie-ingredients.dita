@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE reference PUBLIC "-//OASIS//DTD DITA Reference//EN"
+ "reference.dtd">
+<reference id="reference_ChocolateChipCookieIngredients"
+xml:lang="en-US">
+<title>Original <ph otherprops="nestle">Nestle</ph> Chocolate Chip
+Cookie Ingredients</title>
+<shortdesc>This famous classic American cookie is a treat no matter what the age or occasion. </shortdesc>
+<prolog>
+  <author type="contributor">joe.zucker</author>
+  <critdates>
+   <!--joe.zucker-->
+   <revised modified="2020-12-02"/>
+  </critdates>
+<metadata><keywords><indexterm>cookie<indexterm>chocolate chip<indexterm
+>ingredient</indexterm></indexterm></indexterm><indexterm>ingredient<indexterm
+>cookie<indexterm>chocolate chip</indexterm></indexterm></indexterm>
+</keywords></metadata>
+</prolog>
+<refbody>
+    <section>
+      <p>Enjoy it with a glass of cold milk.</p>
+      <p>
+        <table>
+          <tgroup cols="2">
+            <colspec colname="col1"/>
+            <colspec colname="col2"/>
+            <thead>
+              <row>
+                <entry valign="top">Amount</entry>
+                <entry valign="top">Ingredient</entry>
+              </row>
+            </thead>
+            <tbody>
+              <row>
+                <entry>2 1/4 cups </entry>
+                <entry>all-purpose flour</entry>
+              </row>
+              <row>
+                <entry>1 teaspoon</entry>
+                <entry>baking soda</entry>
+              </row>
+              <row>
+                <entry>1 teaspoon</entry>
+                <entry>salt</entry>
+              </row>
+              <row>
+                <entry>1 cup (2 sticks)</entry>
+                <entry>butter, softened</entry>
+              </row>
+              <row>
+                <entry>3/4 cup</entry>
+                <entry>granulated sugar</entry>
+              </row>
+              <row>
+                <entry>3/4 cup</entry>
+                <entry>packed brown sugar</entry>
+              </row>
+              <row>
+                <entry>1 teaspoon</entry>
+                <entry>vanilla extract</entry>
+              </row>
+              <row>
+                <entry>2 large</entry>
+                <entry>eggs</entry>
+              </row>
+              <row>
+                <entry>2 cups (12-oz. pkg.) </entry>
+                <entry>Nestle Toll House Semi-Sweet Chocolate Morsels</entry>
+              </row>
+              <row>
+                <entry>1 cup</entry>
+                <entry>chopped nuts</entry>
+              </row>
+            </tbody>
+          </tgroup>
+        </table>
+      </p>
+    </section>
+</refbody>
+</reference>

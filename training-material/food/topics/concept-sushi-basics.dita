@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN"
+ "concept.dtd">
+<concept id="concept_SushiBasics">
+<title>Sushi Basics</title>
+<shortdesc>In Japanese cuisine, sushi is vinegared rice, usually topped
+with other ingredients, including fish (cooked or uncooked) and vegetables.</shortdesc>
+<prolog>
+  <author type="contributor">joe.zucker</author>
+  <critdates>
+   <!--joe.zucker-->
+   <revised modified="2020-12-02"/>
+  </critdates>
+<metadata><keywords><indexterm>sushi<indexterm>basics</indexterm></indexterm>
+</keywords></metadata>
+</prolog>
+<conbody>
+<p>The main idea in the preparation of sushi is the preservation and fermentation of fish with salt
+      and rice, a process that has been traced back to Southeast Asia where fish and rice
+      fermentation dishes still exist today. The science behind the fermentation of fish in rice is
+      that the vinegar produced from the fermenting rice breaks the fish down into amino acids. This
+      results in one of the five basic tastes, called umami in Japanese. The oldest form of sushi in
+      Japan, Narezushi still very closely resembles this process. In Japan, Narezushi evolved into
+      Oshizushi and ultimately Edomae nigirizushi, which is what the world today knows as sushi.</p>
+    <p>
+      <fig id="fig_e1d_d5b_wnb">
+        <title>Sushi Ready to Eat</title>
+        <image href="../img/sushi-spread.jpg" id="image_hmv_wrb_wnb"/>
+      </fig>
+    </p>
+<p>The common ingredient across all the different kinds of sushi is
+sushi rice (known as shari in Japanese). The variety in sushi arises
+from the different fillings and toppings, condiments, and the way
+these ingredients are put together. The same ingredients may be assembled
+in a traditional or a contemporary way, creating a very different
+final result:<ul>
+<li>Nigiri-zushi</li>
+<li>Maki-zushi (roll)</li>
+<li>Oshizushi </li>
+<li>Chirashizushi </li>
+<li>Narezushi (old style fermented sushi) </li>
+<li>Temarizushi</li>
+</ul></p>
+</conbody>
+</concept>
+

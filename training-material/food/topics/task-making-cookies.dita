@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN"
+ "task.dtd">
+<task id="task_MakingChocolateChipCookies" xml:lang="en-US">
+<title>Making <ph otherprops="nestle">Nestle </ph>Chocolate Chip Cookies</title>
+<shortdesc>Follow the steps below to make the original Nestle Toll
+House chocolate chip cookie.</shortdesc>
+<prolog>
+  <author type="contributor">joe.zucker</author>
+  <critdates>
+   <!--joe.zucker-->
+   <revised modified="2020-12-02"/>
+  </critdates>
+<metadata><keywords><indexterm>cookie <indexterm>chocolate chip<indexterm
+>making</indexterm></indexterm></indexterm><indexterm>making<indexterm
+>cookie<indexterm>chocolate chip</indexterm></indexterm></indexterm>
+</keywords></metadata>
+</prolog>
+<taskbody>
+<steps>
+<step><cmd>Preheat oven to 375° F.</cmd></step>
+<step><cmd>Combine flour, baking soda and salt in small bowl. </cmd>
+</step>
+<step><cmd>Beat butter, granulated sugar, brown sugar and vanilla
+extract in large mixer bowl until creamy.</cmd></step>
+<step><cmd>Add eggs, one at a time, beating well after each addition. </cmd>
+</step>
+<step><cmd>Gradually beat in flour mixture. </cmd></step>
+<step><cmd>Stir in morsels and nuts. </cmd></step>
+<step><cmd>Drop by rounded tablespoon onto ungreased baking sheets.</cmd>
+</step>
+<step><cmd>Bake for 9 to 11 minutes or until golden brown. </cmd></step>
+<step><cmd>Cool on baking sheets for 2 minutes; remove to wire racks
+to cool completely. </cmd></step>
+</steps>
+<postreq>
+      <p>For high altitude baking (5,200 feet):</p>
+      <ol>
+        <li>Increase flour to 2 1/2 cups.</li>
+        <li>Add 2 teaspoons water with flour and reduce both granulated sugar and brown sugar to 2/3
+          cup each.</li>
+        <li>Bake drop cookies for 8 to 10 minutes.</li>
+      </ol>
+    </postreq>
+</taskbody>
+</task>

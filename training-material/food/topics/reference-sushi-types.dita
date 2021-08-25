@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE reference PUBLIC "-//OASIS//DTD DITA Reference//EN"
+ "reference.dtd">
+<reference id="reference_TypesOfSushi"><title>Types of Sushi</title>
+<shortdesc>There are six types of sushi.</shortdesc><prolog>
+  <author type="contributor">joe.zucker</author>
+  <critdates>
+   <!--joe.zucker-->
+   <revised modified="2020-12-02"/>
+  </critdates><metadata>
+<keywords><indexterm>sushi<indexterm>types</indexterm></indexterm>
+</keywords></metadata></prolog><refbody>
+    <section>
+      <title>Sushi descriptions</title>
+      <p>
+        <table id="TypesOfSushi-AE018F70">
+          <tgroup cols="2">
+            <colspec colname="col1"/>
+            <colspec colname="col2"/>
+            <thead>
+              <row>
+                <entry valign="top">Japanese Name </entry>
+                <entry valign="top">Description</entry>
+              </row>
+            </thead>
+            <tbody>
+              <row>
+                <entry>Nigiri-zushi</entry>
+                <entry>The most typical form of sushi in restaurants. It consists of an oblong mound
+                  of sushi rice that is pressed between the palms of the hands, with a speck of
+                  wasabi and a slice of topping called neta draped over it. This is possibly bound
+                  with a thin band of nori, and is often served in pairs.</entry>
+              </row>
+              <row>
+                <entry>Maki-zushi (roll)</entry>
+                <entry>A cylindrical piece, formed with the help of a bamboo mat, called a makisu.
+                  Makizushi is generally wrapped in nori, but can occasionally be found wrapped in a
+                  thin omelette, sesame seeds, cucumber, or parsley. Makizushi is usually cut into
+                  six or eight pieces, which constitutes a single roll order.</entry>
+              </row>
+              <row>
+                <entry>Oshizushi</entry>
+                <entry>A block-shaped piece formed using a wooden mold, called an oshibako. The chef
+                  lines the bottom of the oshibako with the toppings, covers them with sushi rice,
+                  and then presses the lid of the mold down to create a compact, rectilinear block.
+                  The block is removed from the mold and then cut into bite-sized pieces. This
+                  variety originates from the Kansai Region and is a favourite and specialty of
+                  Osaka.</entry>
+              </row>
+              <row>
+                <entry>Chirashizushi</entry>
+                <entry>A bowl of sushi rice with other ingredients mixed in (also refers to
+                  barazushi). It is commonly eaten in Japan because it is filling, fast and easy to
+                  make. Chirashizushi most often varies regionally because it is eaten annually as a
+                  part of the Doll Festival, celebrated only during March in Japan.</entry>
+              </row>
+              <row>
+                <entry>Narezushi</entry>
+                <entry>An older form of sushi. Skinned and gutted fish are stuffed with salt, placed
+                  in a wooden barrel, doused with salt again, and then weighed down with a heavy
+                  tsukemonoishi (pickling stone). They are supposedly salted for ten days to a
+                  month, then placed in water for 15 minutes to an hour. They are then placed in
+                  another barrel, sandwiched, and layered with cooled steamed rice and fish. Then
+                  the mixture is again partially sealed with otoshibuta and a pickling stone. As
+                  days pass, water seeps out, which must be removed. Six months later, this
+                  funazushi can be eaten, and remains edible for another six months or more.</entry>
+              </row>
+              <row>
+                <entry>Temarizushi</entry>
+                <entry>Ball-shaped sushi made by pressing rice and fish into a ball-shaped form by
+                  hand using a plastic wrap. They are quite easy to make and thus a good starting
+                  point for beginners.</entry>
+              </row>
+            </tbody>
+          </tgroup>
+        </table>
+      </p>
+    </section></refbody></reference>

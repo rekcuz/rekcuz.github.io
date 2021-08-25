@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN"
+ "concept.dtd">
+<concept id="concept-ChocolateChipCookie" xml:lang="en-US">
+<title><ph otherprops="nestle">Nestle</ph> Chocolate Chip Cookie</title>
+<shortdesc>A chocolate chip cookie is a drop cookie that originated in the United States and
+  features chocolate chips as its distinguishing ingredient. </shortdesc>
+ <prolog>
+  <author type="contributor">joe.zucker</author>
+  <critdates>
+   <!--joe.zucker-->
+   <revised modified="2020-12-02"/>
+  </critdates>
+<metadata><keywords><indexterm>cookie <indexterm>chocolate chip<indexterm
+>definition</indexterm></indexterm></indexterm><indexterm>definition<indexterm
+>cookie<indexterm>chocolate chip</indexterm></indexterm></indexterm>
+</keywords></metadata>
+</prolog>
+<conbody>
+<section id="section_cwc_mqb_wnb">The traditional recipe combines a dough composed of butter and
+   both brown and white sugar with semi-sweet chocolate chips. Variations include recipes with other
+   types of chocolate or additional ingredients, such as nuts or oatmeal.</section>
+  <section id="section_dwc_mqb_wnb">
+   <title>Origination</title>
+   <p>The chocolate chip cookie was accidentally developed by Ruth Graves Wakefield in 1930. She
+    owned the Toll House Inn, in Whitman, Massachusetts, a very popular restaurant that featured
+    home cooking in the 1930s. Her cookbook, <i>Toll House Tried and True Recipes</i>, was published
+    in 1936 by M. Barrows; Company, New York. It included the recipe "Toll House Chocolate Crunch
+    Cookie", which rapidly became a favorite to be baked in American homes.</p>
+   <p>
+    <fig id="fig_ewc_mqb_wnb">
+     <title><ph otherprops="nestle">Nestle</ph> Chocolate Chip Cookie</title>
+     <image href="../img/chocolate-chip-cookie.png" id="image_gj2_kqb_wnb"/>
+    </fig>
+   </p>
+  </section>
+<section otherprops="nestle"><title>Nestle’s History of the Cookie</title
+><p>Wakefield is said to have been making chocolate cookies and on
+running out of regular baker's chocolate, substituted broken pieces
+of semi-sweet chocolate from Nestle thinking that they would melt
+and mix into the batter. They did not and the chocolate chip cookie
+was born. Wakefield sold the recipe to Nestle in exchange for a lifetime
+supply of chocolate chips. Every bag of Nestle chocolate chips sold
+in North America has a variation of her original recipe printed on
+the back. </p><p>During WWII, US soldiers from Massachusetts who were
+stationed overseas shared the cookies they received in care packages
+from back home with soldiers from other parts of the US. Soon, hundreds
+of soldiers were writing home asking their families to send them some
+Toll House cookies, and Wakefield was soon inundated with letters
+from around the world asking for her recipe. Thus began the nationwide
+craze for the chocolate chip cookie.</p></section>
+</conbody>
+</concept>

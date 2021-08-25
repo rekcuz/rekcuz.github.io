@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE map PUBLIC "-//OASIS//DTD DITA Map//EN" "map.dtd">
+<map id="tpc-cookies" >
+ <title>Chocolate chip cookies</title>
+ <topicmeta>
+  <author type="contributor">joe.zucker</author>
+  <critdates>
+   <!--joe.zucker-->
+   <revised modified="2020-12-02"/>
+  </critdates>
+ </topicmeta>
+ <topicref href="food/topics/concept-chocolate-chip-cookie.dita">
+  <topicref href="food/topics/reference-cookie-ingredients.dita"/>
+  <topicref href="food/topics/task-making-cookies.dita"/>
+ </topicref>
+ 
+</map>
