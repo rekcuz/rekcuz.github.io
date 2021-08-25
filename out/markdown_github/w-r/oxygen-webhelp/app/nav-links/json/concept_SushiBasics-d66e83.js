@@ -1,1 +1,0 @@
-define({"topics" : [{"title":"Types of Sushi","shortdesc":"\n            <p class=\"shortdesc\">There are six types of sushi.</p>\n         ","href":"food\/topics\/r_TypesOfSushi.html","attributes": {"data-id":"reference_TypesOfSushi",},"menu": {"hasChildren":false,},"tocID":"reference_TypesOfSushi-d66e102","topics":[]}]});
