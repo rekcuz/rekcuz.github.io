@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<map>
+   <appContext helpID="concept-ChocolateChipCookie"
+               path="food/topics/concept-chocolate-chip-cookie.html"/>
+   <appContext helpID="reference_ChocolateChipCookieIngredients"
+               path="food/topics/reference-cookie-ingredients.html"/>
+   <appContext helpID="task_MakingChocolateChipCookies"
+               path="food/topics/task-making-cookies.html"/>
+</map>
