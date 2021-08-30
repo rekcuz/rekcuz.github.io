@@ -4,14 +4,16 @@
  <title>Chocolate chip cookies</title>
  <topicmeta>
   <author type="contributor">joe.zucker</author>
+  <author type="contributor">zuckj</author>
   <critdates>
-   <!--joe.zucker-->
-   <revised modified="2020-12-02"/>
+   <!--zuckj-->
+   <revised modified="2021-08-30"/>
   </critdates>
  </topicmeta>
  <topicref href="food/topics/concept-chocolate-chip-cookie.dita">
   <topicref href="food/topics/reference-cookie-ingredients.dita"/>
   <topicref href="food/topics/task-making-cookies.dita"/>
+  <topicref href="food/topics/concept-sushi-basics.md" format="markdown"/>
  </topicref>
  
 </map>
