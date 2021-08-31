@@ -3,8 +3,8 @@
  "task.dtd">
 <task id="task_MakingChocolateChipCookies" xml:lang="en-US">
 <title>Making <ph otherprops="nestle">Nestle </ph>Chocolate Chip Cookies</title>
-<shortdesc>Follow the steps below to make the original Nestle Toll
-House chocolate chip cookie.</shortdesc>
+<shortdesc>Test. Follow the steps below to make the original Nestle Toll House chocolate chip
+    cookie.</shortdesc>
 <prolog>
   <author type="contributor">joe.zucker</author>
   <critdates>
