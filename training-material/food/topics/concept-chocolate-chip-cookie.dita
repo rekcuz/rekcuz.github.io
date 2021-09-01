@@ -3,7 +3,8 @@
  "concept.dtd">
 <concept id="concept-ChocolateChipCookie" xml:lang="en-US">
 <title><ph otherprops="nestle">Nestle</ph> Chocolate Chip Cookie</title>
-<shortdesc>A chocolate chip cookie is a drop cookie that originated in the United States and
+<shortdesc><?oxy_comment_start author="rekcuz" timestamp="20210901T173929+0000" comment="Test with Walter."?>A
+chocolate<?oxy_comment_end?> chip cookie is a drop cookie that originated in the United States and
 features chocolate chips as its distinguishing ingredient. </shortdesc>
  <prolog>
   <author type="contributor">joe.zucker</author>
